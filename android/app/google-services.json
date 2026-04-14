@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12195509156",
+    "project_id": "diplom-warehouse",
+    "storage_bucket": "diplom-warehouse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12195509156:android:962009fa860caf51ce4731",
+        "android_client_info": {
+          "package_name": "com.example.diplom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2REo1VIQ-eP1bcP2KPXCurvSq27NXw74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
